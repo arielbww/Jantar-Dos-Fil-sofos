@@ -52,7 +52,7 @@ while True:
             print(f"Filósofo {f['id']} [{f['estado']}]")
             
     # Mostra exatamente como está a lista de talheres agora
-    print(f"Mesa (Talheres 1 a 5): {talheres}")
+    print(f"Mesa (Talheres 0 a 4): {talheres}")
 
     # 3. PASSAGEM DO TEMPO
     time.sleep(4) # Aguarda 4 segundo
