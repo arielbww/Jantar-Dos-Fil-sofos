@@ -1,4 +1,4 @@
-# Documentação: O Jantar dos Filósofos
+# O Jantar dos Filósofos
 
 ## 1. Para que serve?
 Este script é uma simulação de **Gerenciamento de Processos e Recursos**. Na computação, "Filósofos" representam **processos ou threads**, e "Talheres" representam **recursos limitados** (como memória, impressoras ou acesso a um banco de dados).
